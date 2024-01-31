@@ -13,23 +13,31 @@
       "postId": 1
     }
   ],
-  "products": [
+  "users": [
+    {
+      "id": "1",
+      "username": "vamsi",
+      "password": "123",
+      "role": "manager"
+    },
+    {
+      "id": "2",
+      "username": "sai",
+      "password": "123",
+      "role": "customer"
+    },
     {
       "id": "3",
-      "title": "Mens Cotton Jacket",
-      "price": 55.99,
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
-    },
+      "username": "chinna",
+      "password": "123",
+      "role": "employer"
+    }
+  ],
+  "products": [
     {
       "id": "6",
       "title": "Solid Gold Petite Micropave ",
-      "price": 168,
+      "price": "165",
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
       "category": "jewelery",
       "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
@@ -221,6 +229,33 @@
       "description": "ibdd",
       "category": "hgoo",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmg1d92NfyULgRdsK7BPLlJHMAjRHis8F2w&usqp=CAU",
+      "price": "1200"
+    },
+    {
+      "id": "c182",
+      "title": "I phone15",
+      " price": 0,
+      "description": "Good",
+      "category": "IOS",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/641397e79f04500b85460b8f/Apple--iPhone-15--iPhone-15-Pro-Max--iPhone-15-Pro--iPhone-15-Pro-design--iPhone-15/0x0.jpg?crop=924,693,x359,y0,safe&height=533&width=711&fit=bounds",
+      "price": "58.9"
+    },
+    {
+      "id": "ffe1",
+      "title": "watch",
+      " price": 0,
+      "description": "Good",
+      "category": "andirpor",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT2U3ref_VW_34FR+watch-case-41-aluminum-starlight-nc-s9_VW_34FR+watch-face-41-aluminum-starlight-s9_VW_34FR_WF_CO_GEO_IN?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=Nk1sQzUrVmFkSWVyQnJPaHc3ZFViaDJXVW9BNEhuTURaNVlmRjZxRXZQeUtoaXQwYi9wRGFOV2FsZVA1S1dYc05HSTFvaExSMlVhL25Qcy9RR0IwRHlJVXRzYkdlWnN0a2d5L09mTHJ3RTVmSGlnNkpTM1NGVHN6YWcySEw0THduMU5rNXFEOEVYUlE4QjJTQ2RNei9ZcTZOVWs3ODQrRmtDTEZFU25DdEtDOG8vRzJ1QjU0M083ZlowMjg1N3dhZ2szdjZkUnVjaUUxYlJIUFFySWhUYTB6QjllalFrSjZZZ1VjN3NNR0F0V0gxWTlYT3RrVXhNU3hzdWxlTkdjUg",
+      "price": "12.89"
+    },
+    {
+      "id": "d381",
+      "title": "laptop",
+      " price": 0,
+      "description": "Good",
+      "category": "IOS",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08573807_6.png",
       "price": "1200"
     }
   ]
