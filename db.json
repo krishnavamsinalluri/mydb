@@ -31,24 +31,138 @@
       "username": "chinna",
       "password": "123",
       "role": "employer"
+    },
+    {
+      "id": "bbbf",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "f2d0",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "2a85",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "e0ff",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "1baa",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "a8f0",
+      "username": "hema",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "5b0a",
+      "username": "vamsinalluri",
+      "password": "143",
+      "role": "customer"
+    },
+    {
+      "id": "7693",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "fbde",
+      "username": "mohan",
+      "password": "2",
+      "role": "customer"
+    },
+    {
+      "id": "be36",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "3d26",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "2137",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "15ad",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "1749",
+      "username": "navya",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "2897",
+      "username": "nani",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "d860",
+      "username": "vamsinalluri",
+      "password": "1234",
+      "role": "manger"
+    },
+    {
+      "id": "e215",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "9885",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "77c2",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "2b4e",
+      "username": "yesiwtha",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "536c",
+      "username": "",
+      "password": "",
+      "role": ""
     }
   ],
   "products": [
     {
-      "id": "6",
-      "title": "Solid Gold Petite Micropave ",
-      "price": "165",
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
-    },
-    {
       "id": "7",
-      "title": "White Gold Plated Princess",
+      "title": "White Gold Plated ",
       "price": 9.99,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
@@ -256,6 +370,24 @@
       "description": "Good",
       "category": "IOS",
       "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/c/0/c08573807_6.png",
+      "price": "1200"
+    },
+    {
+      "id": "5c1c",
+      "title": "iphone",
+      " price": 0,
+      "description": "",
+      "category": "",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT2U3ref_VW_34FR+watch-case-41-aluminum-starlight-nc-s9_VW_34FR+watch-face-41-aluminum-starlight-s9_VW_34FR_WF_CO_GEO_IN?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=Nk1sQzUrVmFkSWVyQnJPaHc3ZFViaDJXVW9BNEhuTURaNVlmRjZxRXZQeUtoaXQwYi9wRGFOV2FsZVA1S1dYc05HSTFvaExSMlVhL25Qcy9RR0IwRHlJVXRzYkdlWnN0a2d5L09mTHJ3RTVmSGlnNkpTM1NGVHN6YWcySEw0THduMU5rNXFEOEVYUlE4QjJTQ2RNei9ZcTZOVWs3ODQrRmtDTEZFU25DdEtDOG8vRzJ1QjU0M083ZlowMjg1N3dhZ2szdjZkUnVjaUUxYlJIUFFySWhUYTB6QjllalFrSjZZZ1VjN3NNR0F0V0gxWTlYT3RrVXhNU3hzdWxlTkdjUg",
+      "price": "12"
+    },
+    {
+      "id": "1198",
+      "title": "iphone",
+      " price": 0,
+      "description": "Good",
+      "category": "IOS",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/004/493/181/small/hospital-building-for-healthcare-background-illustration-with-ambulance-car-doctor-patient-nurses-and-medical-clinic-exterior-free-vector.jpg",
       "price": "1200"
     }
   ]
